@@ -1,0 +1,18 @@
+E:\testprogram\Projectweek1\APIProject\entities\bin\Debug\netstandard2.0\entities.deps.json
+E:\testprogram\Projectweek1\APIProject\entities\bin\Debug\netstandard2.0\entities.dll
+E:\testprogram\Projectweek1\APIProject\entities\bin\Debug\netstandard2.0\entities.pdb
+E:\testprogram\Projectweek1\APIProject\entities\obj\Debug\netstandard2.0\entities.csproj.CoreCompileInputs.cache
+E:\testprogram\Projectweek1\APIProject\entities\obj\Debug\netstandard2.0\entities.AssemblyInfoInputs.cache
+E:\testprogram\Projectweek1\APIProject\entities\obj\Debug\netstandard2.0\entities.AssemblyInfo.cs
+E:\testprogram\Projectweek1\APIProject\entities\obj\Debug\netstandard2.0\entities.dll
+E:\testprogram\Projectweek1\APIProject\entities\obj\Debug\netstandard2.0\entities.pdb
+E:\testprogram\Projectweek1\APIProject\entities\obj\Debug\netstandard2.0\entities.csprojResolveAssemblyReference.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\bin\Debug\netstandard2.0\entities.deps.json
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\bin\Debug\netstandard2.0\entities.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\bin\Debug\netstandard2.0\entities.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\obj\Debug\netstandard2.0\entities.csprojAssemblyReference.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\obj\Debug\netstandard2.0\entities.csproj.CoreCompileInputs.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\obj\Debug\netstandard2.0\entities.AssemblyInfoInputs.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\obj\Debug\netstandard2.0\entities.AssemblyInfo.cs
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\obj\Debug\netstandard2.0\entities.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\entities\obj\Debug\netstandard2.0\entities.pdb

@@ -1,0 +1,24 @@
+E:\testprogram\Projectweek1\APIProject\bll\bin\Debug\netstandard2.0\bll.deps.json
+E:\testprogram\Projectweek1\APIProject\bll\bin\Debug\netstandard2.0\bll.dll
+E:\testprogram\Projectweek1\APIProject\bll\bin\Debug\netstandard2.0\bll.pdb
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.csproj.CoreCompileInputs.cache
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.AssemblyInfoInputs.cache
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.AssemblyInfo.cs
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.dll
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.pdb
+E:\testprogram\Projectweek1\APIProject\bll\bin\Debug\netstandard2.0\entities.dll
+E:\testprogram\Projectweek1\APIProject\bll\bin\Debug\netstandard2.0\entities.pdb
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.csproj.CopyComplete
+E:\testprogram\Projectweek1\APIProject\bll\obj\Debug\netstandard2.0\bll.csprojResolveAssemblyReference.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\bin\Debug\netstandard2.0\bll.deps.json
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\bin\Debug\netstandard2.0\bll.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\bin\Debug\netstandard2.0\bll.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\bin\Debug\netstandard2.0\entities.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\bin\Debug\netstandard2.0\entities.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.csprojAssemblyReference.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.csproj.CoreCompileInputs.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.AssemblyInfoInputs.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.AssemblyInfo.cs
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.csproj.CopyComplete
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\bll\obj\Debug\netstandard2.0\bll.pdb

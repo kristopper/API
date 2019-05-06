@@ -1,0 +1,32 @@
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.deps.json
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.runtimeconfig.json
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.runtimeconfig.dev.json
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.dll
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.pdb
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.csproj.CoreCompileInputs.cache
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.AssemblyInfoInputs.cache
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.AssemblyInfo.cs
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.dll
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.pdb
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.csprojResolveAssemblyReference.cache
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\entities.dll
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\entities.pdb
+E:\testprogram\Projectweek1\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.csproj.CopyComplete
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\bll.dll
+E:\testprogram\Projectweek1\APIProject\GamesList\bin\Debug\netcoreapp2.0\bll.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.deps.json
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.runtimeconfig.json
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.runtimeconfig.dev.json
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\GamesList.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\bll.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\entities.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\entities.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\bin\Debug\netcoreapp2.0\bll.pdb
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.csprojAssemblyReference.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.csproj.CoreCompileInputs.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.AssemblyInfoInputs.cache
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.AssemblyInfo.cs
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.csproj.CopyComplete
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.dll
+D:\Tops File\LaptopFiles\testprogram\Projectweek1\New folder\New folder\APIProject\GamesList\obj\Debug\netcoreapp2.0\GamesList.pdb
